@@ -2,6 +2,10 @@
     font-family: sans-serif;
 }
 
+.exp {
+    padding: 3px;
+}
+
 body {
     text-align: center;
     margin: auto;
